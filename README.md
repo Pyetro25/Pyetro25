@@ -1,16 +1,12 @@
-## Hi there 👋
+# Oi eu sou Pyetro
+Aluno do 2º Ano do Curso Técnico em Desenvolvimento de Sistemas do CEEP-PG
+## Conhecimentos
+- C
+- C++
+- C#
+- JavaScript
+- Java
+- Html
+- CSS
 
-<!--
-**Pyetro25/Pyetro25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Amo mulheres
