@@ -9,4 +9,11 @@ Aluno do 2º Ano do Curso Técnico em Desenvolvimento de Sistemas do CEEP-PG
 - Html
 - CSS
 
-Amo mulheres
+
+
+
+
+
+
+
+Meu pai é o Protótipo e a mãe é a Pomni 💯
