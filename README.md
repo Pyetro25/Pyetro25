@@ -16,4 +16,6 @@ Aluno do 2º Ano do Curso Técnico em Desenvolvimento de Sistemas do CEEP-PG
 
 
 
-Meu pai é o Protótipo e a mãe é a Pomni 💯
+ATUAL TOP 1 no The Bridge e SKyWars;
+Level 1553 no BedWars;
+28K de Wins e 84 wins seguidas;
